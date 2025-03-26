@@ -1,6 +1,6 @@
 ---
 title: Welcome to my blog
-hi 
-Mon the Dees!
+<p>hi </p>
+<p>Mon the Dees!</p>
 ---
 
